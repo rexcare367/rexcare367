@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+AI+Full+Stack+Developer;Over+6+years+of+Experience+in+Web+Development." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+AI+Full+Stack+Developer;Over+6+years+of+Experience" alt="Typing SVG" /></a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -26,6 +26,7 @@
 🌱 Tech Stack:
 
 - Frontend & Backend: React, Next.js, Tailwind CSS, ExpressJS, Python, FastAPI, Django.
+- Certified Bowser Extension development
 - Databases & APIs: RESTful API, GraphQL, MongoDB, PostgreSQL.
 - DevOps: Proficient with AWS, GCP, Kubernetes, Docker.
 
