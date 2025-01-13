@@ -25,9 +25,9 @@
 
 🌱 Tech Stack:
 
-- Frontend & Backend: React, Next.js, Tailwind CSS, ExpressJS, Python, FastAPI, Django.
-- Certified Bowser Extension development
-- Databases & APIs: RESTful API, GraphQL, MongoDB, PostgreSQL.
+- Frontend & Backend: React & Next.js, Tailwind CSS, ExpressJS & Nest.js, Python, FastAPI, Django.
+- Certified Browser Extension development
+- Databases & APIs: RESTful API, GraphQL, MongoDB, PostgreSQL, gRPC, tRPC.
 - DevOps: Proficient with AWS, GCP, Kubernetes, Docker.
 
 🌟 API Experience:
@@ -60,7 +60,7 @@
       <br>NextJS
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Vue" />
       <br>Vue
     </td>
               <td align="center" width="96">
