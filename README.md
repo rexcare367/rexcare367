@@ -14,21 +14,22 @@
 
 👀 About Me:
 
-- I absolutely love diving deep into Web3 and AI integration, bringing cutting-edge technologies together.
-- I’m a seasoned expert with OpenAI LLMs like GPT-4, GPT-4o, GPT-4o-mini, as well as Google’s Gemini and Claude APIs. Plus, I have extensive experience with a variety of OpenAI APIs, including real-time and assistant APIs.
+- I absolutely love diving deep AI solutions, bringing cutting-edge technologies together.
+- I’m a seasoned expert with OpenAI LLMs like GPT-4o, GPT-4o-mini, as well as Google’s Gemini and Claude APIs using Vercel AI SDK. Plus, I have extensive experience with a variety of OpenAI APIs, including real-time and assistant APIs.
 
 🍄 Generative AI Enthusiast:
 
-- Video Generation: Skilled with Kling API and Sora for creating amazing video content.
+- Story Generation: Skilled with generative AI integration several AI solutions - stable diffusion and Dall-E for image generation, claude and OpenAI for text generation. 
 - Music Generation: Using Suno API to craft unique soundscapes.
 - Book & Image Generation: Expert with Flux and Stable Diffusion for stunning visual and written content.
 
 🌱 Tech Stack:
 
-- Frontend & Backend: React & Next.js, Tailwind CSS, ExpressJS & Nest.js, Python, FastAPI, Django.
+- Frontend: React & Next.js, Vue.js & Nuxt, Tailwind CSS & Shad CN, Framer & GSAP
+- Backend: ExpressJS & Nest.js, FastAPI & Flask
 - Certified Browser Extension development
-- Databases & APIs: RESTful API, GraphQL, MongoDB, PostgreSQL, gRPC, tRPC.
-- DevOps: Proficient with AWS, GCP, Kubernetes, Docker.
+- Databases & APIs: MongoDB, PostgreSQL, Supabase, RESTful API, GraphQL, gRPC, tRPC
+- DevOps: Proficient with AWS, GCP, Kubernetes, Docker
 
 🌟 API Experience:
 
