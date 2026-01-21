@@ -25,6 +25,7 @@
 
 🌱 Tech Stack:
 
+- Mobile: React Native Expo/CLI, Flutter/FlutterFlow
 - Frontend: React & Next.js, Vue.js & Nuxt, Tailwind CSS & Shad CN, Framer & GSAP
 - Backend: ExpressJS & Nest.js, FastAPI & Flask
 - Certified Browser Extension development
